@@ -27,23 +27,7 @@ Speech Emotion Recognition (SER) is the process of identifying the emotional sta
 - **Feature Extraction**: Utilizes industry-standard audio features including MFCC, Chroma, and Mel spectrograms for robust performance [web:44].
 - **Data-Driven**: Trained on a combination of popular datasets like **RAVDESS** and **TESS** to ensure generalizability [web:39][web:40].
 
-## Live Demo & Screenshots
 
-Here is a brief demonstration of the model analyzing a live audio stream.
-
-**(Crucial Step: Create a short GIF or video of your project in action and embed it here. This is the most engaging part of your README.)**
-
-`![Live Demo GIF](link_to_your_demo.gif)`
-
-**Screenshots of Analysis:**
-
-| Input Audio (Angry) | Prediction Output |
-| :------------------: | :----------------: |
-| `[Screenshot of an angry waveform or input screen]` | `[Screenshot of the model's output showing 'Angry: 95%']` |
-
-| Input Audio (Happy) | Prediction Output |
-| :------------------: | :----------------: |
-| `[Screenshot of a happy waveform or input screen]` | `[Screenshot of the model's output showing 'Happy: 92%']` |
 
 ## Methodology & Model Architecture
 
